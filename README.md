@@ -1,1 +1,2 @@
-# capitol_bikeshare
+# Capitol Bikesahre
+This repository contains work  about predicting bike availability in Washington D.C. This was initially a group project that I redid on my own time and expanded to include additional months and a new modeling process. The file contains my code for cleaning, exploring, and modeling the data along with the relevant data sets.
